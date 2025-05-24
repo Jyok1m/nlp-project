@@ -1,0 +1,16 @@
+# Core Data Science Libraries
+pandas
+numpy
+
+# NLP and Preprocessing
+nltk
+gensim
+
+# Machine Learning
+scikit-learn
+
+# Visualization
+matplotlib
+
+# Jupyter Notebooks
+notebook
